@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1659B650-4F1E-4D4A-9F71-AAD0D3919069</string>
+	<key>IDESourceControlProjectName</key>
+	<string>UsingVariables</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E611317798DDC37C660FB951E8A25B2DB92D86F0</key>
+		<string>https://github.com/KevinSLambert/UsingVariables.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>UsingVariables.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E611317798DDC37C660FB951E8A25B2DB92D86F0</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/KevinSLambert/UsingVariables.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E611317798DDC37C660FB951E8A25B2DB92D86F0</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E611317798DDC37C660FB951E8A25B2DB92D86F0</string>
+			<key>IDESourceControlWCCName</key>
+			<string>UsingVariables</string>
+		</dict>
+	</array>
+</dict>
+</plist>
